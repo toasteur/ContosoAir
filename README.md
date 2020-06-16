@@ -1,6 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
-[![Build Status](https://dev.azure.com/jlapostolle/GitHubTest/_build/latest?definitionId=5&branchName=master)](https://dev.azure.com/jlapostolle/GitHubTest/_build/latest?definitionId=5&branchName=master)
+[![Build Status](https://dev.azure.com/jlapostolle/GitHubTest/_apis/build/status/toasteur.ContosoAir?branchName=master)](https://dev.azure.com/jlapostolle/GitHubTest/_apis/build/status/toasteur.ContosoAir?branchName=master)
 
 # Microsoft.Github CI Demo
 
